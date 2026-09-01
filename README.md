@@ -20,7 +20,7 @@ Gemini 2.5 Pro, Google Agent Development Kit, Cloud Vision, Firebase, Google Clo
 
 ### Links
 - **GitHub:** https://github.com/wayzid/NusukPay
-- **Video:** https://youtu.be/DNdqLWV59SA
+- **Video:** https://youtube.com/shorts/VG6niKdHswE?si=9TmC9Rohe-geV4CE
 
 ---
 I created this video for the purposes of entering the All Things Agentic Hackathon.
