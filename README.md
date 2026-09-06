@@ -1,8 +1,8 @@
 # NusukPay - Protecting 3.6M Pilgrims with Agentic AI
 
 ### 🎥 Demo Video
-https://youtu.be/DNdqLWV59SA
 
+https://youtube.com/shorts/VG6niKdHswE?si=j1w9ugan92Jj998I
 Protecting 3.6M pilgrims with 4 AI agents | All Things Agentic Hackathon
 
 ### The Problem
